@@ -191,54 +191,5 @@
         }
       }
     }
-  },
-
-  "typography": {
-    "input": {
-      "fontSize": {
-        "type": "dimension",
-        "value": 16
-      },
-      "textDecoration": {
-        "type": "string",
-        "value": "none"
-      },
-      "fontFamily": {
-        "type": "string",
-        "value": "SF Pro Text"
-      },
-      "fontWeight": {
-        "type": "number",
-        "value": 400
-      },
-      "fontStyle": {
-        "type": "string",
-        "value": "normal"
-      },
-      "fontStretch": {
-        "type": "string",
-        "value": "normal"
-      },
-      "letterSpacing": {
-        "type": "dimension",
-        "value": 0
-      },
-      "lineHeight": {
-        "type": "dimension",
-        "value": 24
-      },
-      "paragraphIndent": {
-        "type": "dimension",
-        "value": 0
-      },
-      "paragraphSpacing": {
-        "type": "dimension",
-        "value": 0
-      },
-      "textCase": {
-        "type": "string",
-        "value": "none"
-      }
-    }
   }
 }
