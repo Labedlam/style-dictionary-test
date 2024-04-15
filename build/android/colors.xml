@@ -2,8 +2,60 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 12 Apr 2024 21:55:56 GMT
+  Generated on Mon, 15 Apr 2024 14:33:02 GMT
 -->
 <resources>
+  <color name="color_brand_color_50">#ffeaf4ff</color>
+  <color name="color_brand_color_100">#ffbeddfe</color>
+  <color name="color_brand_color_200">#ff93cdfe</color>
+  <color name="color_brand_color_300">#ff72b6fd</color>
+  <color name="color_brand_color_400">#ff57a8fd</color>
+  <color name="color_brand_color_500">#ff2d92fc</color>
+  <color name="color_brand_color_600">#ff0072cf</color>
+  <color name="color_brand_color_700">#ff0c58a7</color>
+  <color name="color_brand_color_800">#ff014286</color>
+  <color name="color_brand_color_900">#ff014286</color>
+  <color name="color_neutrals_50">#ffffffff</color>
+  <color name="color_neutrals_100">#fff5f7fa</color>
+  <color name="color_neutrals_150">#ffe9ecf0</color>
+  <color name="color_neutrals_200">#ffd8dfe5</color>
+  <color name="color_neutrals_300">#ffc3cbd4</color>
+  <color name="color_neutrals_400">#ffb0b9c2</color>
+  <color name="color_neutrals_500">#ff8c96a1</color>
+  <color name="color_neutrals_600">#ff6f7a85</color>
+  <color name="color_neutrals_700">#ff5b646e</color>
+  <color name="color_neutrals_800">#ff434a52</color>
+  <color name="color_neutrals_850">#ff343a40</color>
+  <color name="color_neutrals_900">#ff2a2e33</color>
+  <color name="color_purple_50">#ffecebfe</color>
+  <color name="color_purple_100">#ffc4c0fc</color>
+  <color name="color_purple_200">#ffa8a1fa</color>
+  <color name="color_purple_300">#ff8076f8</color>
+  <color name="color_purple_400">#ff685cf6</color>
+  <color name="color_purple_500">#ff4233f4</color>
+  <color name="color_purple_600">#ff3c2ede</color>
+  <color name="color_purple_700">#ff1304b5</color>
+  <color name="color_purple_800">#ff0b018c</color>
+  <color name="color_purple_900">#ff090064</color>
+  <color name="color_pink_50">#fffbf2ff</color>
+  <color name="color_pink_100">#fff2d6ff</color>
+  <color name="color_pink_200">#ffebc3ff</color>
+  <color name="color_pink_300">#ffe2a7fe</color>
+  <color name="color_pink_400">#ffdd96fe</color>
+  <color name="color_pink_500">#ffd47cfe</color>
+  <color name="color_pink_600">#ffc171e7</color>
+  <color name="color_pink_700">#ff9b38c9</color>
+  <color name="color_pink_800">#ff8202be</color>
+  <color name="color_pink_900">#ff530b76</color>
+  <color name="color_yellow_50">#fffef8e6</color>
+  <color name="color_yellow_100">#fffbebb0</color>
+  <color name="color_yellow_200">#fff9e18a</color>
+  <color name="color_yellow_300">#fff6d354</color>
+  <color name="color_yellow_400">#fff5ca33</color>
+  <color name="color_yellow_500">#fff2bd00</color>
+  <color name="color_yellow_600">#ffdc9e00</color>
+  <color name="color_yellow_700">#ffb47700</color>
+  <color name="color_yellow_800">#ff855800</color>
+  <color name="color_yellow_900">#ff663d00</color>
   
 </resources>
